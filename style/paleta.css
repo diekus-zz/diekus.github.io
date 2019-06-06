@@ -1,0 +1,17 @@
+:root {
+    --white: #FFFFFF;
+    --l-grey: #e0e0e0;
+    --black: #3D3D3D;
+    --hot-salmon: #FF3D3D;
+    --d-salmon: #7A2020;
+    --hot-blue: #3D3DFF;
+    --shade: #0000007F;
+    --tint: #FFFFFF7F;
+
+    --bg: var(--black);
+    --bg-accent: var(--hot-salmon);
+    --text: var(--white);
+    --card-shadow: var(--black);
+    --link: var(--tint);
+    --subtitle: var(--l-grey);
+}
