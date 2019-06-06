@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300&display=swap');
-@import '/style/paleta.css';
-@import '/style/sizing.css';
+@import '../style/paleta.css';
+@import '../style/sizing.css';
 
 body {
     background-color: var(--bg);
