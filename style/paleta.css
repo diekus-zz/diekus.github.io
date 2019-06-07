@@ -7,6 +7,7 @@
     --hot-blue: #3D3DFF;
     --shade: #0000007F;
     --tint: #FFFFFF7F;
+    --l-tint: #ffffff3F;
 
     --bg: var(--black);
     --bg-accent: var(--hot-salmon);
@@ -14,5 +15,7 @@
     --card-shadow: var(--black);
     --link: var(--tint);
     --subtitle: var(--l-grey);
+    --row-even: var(--tint);
+    --row-odd: var(--l-tint);
 
 }
