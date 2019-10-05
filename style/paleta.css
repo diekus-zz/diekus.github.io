@@ -6,12 +6,12 @@
     --d-salmon: #7A2020;
     --hot-blue: #3D3DFF;
     --shade: #0000007F;
-    --tint: #FFFFFF7F;
+    --tint: #0058BD;
     --l-tint: #ffffff3F;
 
     --bg: var(--black);
-    --bg-accent: var(--hot-salmon);
-    --text: var(--white);
+    --bg-accent: var(--l-grey);
+    --text: var(--black);
     --card-shadow: var(--black);
     --link: var(--tint);
     --subtitle: var(--l-grey);
