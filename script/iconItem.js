@@ -29,6 +29,12 @@ class IconItem extends HTMLElement {
             box-shadow: 0px 3px 15px -3px var(--card-shadow);
             transform: translateY(-.1rem);
           }
+          #link {
+            background: -webkit-linear-gradient(90deg, var(--tint) 0%, var(--accent) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-decoration: none;
+          }
         </style>
         <div class="icon-default">
           <slot name="icon-image"><img id="icon-image" src="#" loading="lazy"></slot>
