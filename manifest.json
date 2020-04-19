@@ -12,6 +12,6 @@
     "start_url": "index.html",
     "display": "standalone",
     "orientation": "any",
-    "theme_color": "#FF3D3D",
-    "background_color": "#3D3D3D"
+    "theme_color": "#3D3D3D",
+    "background_color": "#FFC800"
   }
