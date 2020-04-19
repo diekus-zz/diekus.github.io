@@ -2,8 +2,9 @@
     --white: #FFFFFF;
     --l-grey: #e0e0e0;
     --black: #3D3D3D;
-    --shade: #000000;
-    --tint: #FFC800;
+    --shade: #2D2D2D;
+    --tint: #FF9D00;
+    --accent: #FFE175;
     --l-tint: #2D2D2D;
 
     --bg: var(--black);
@@ -13,6 +14,6 @@
     --link: var(--tint);
     --subtitle: var(--l-grey);
     --row-even: var(--tint);
-    --row-odd: var(--l-tint);
+    --row-odd: var(--shade);
 
 }

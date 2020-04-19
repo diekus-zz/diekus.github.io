@@ -36,6 +36,7 @@ class ItemCard extends HTMLElement{
                     grid-column-start: 1;
                     grid-column-end: -1;
                     margin: 1em .7em .5em .7em;
+                    
                 }
                 .item-descrip {
                     grid-row-start: 3;

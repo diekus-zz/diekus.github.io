@@ -16,6 +16,9 @@ header {
 
 a:link, a:active, a:visited {
     color: var(--link);
+    background: -webkit-linear-gradient(90deg, var(--tint) 0%, var(--accent) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 h1 {
@@ -136,7 +139,8 @@ footer {
     text-align: center;
     padding: 2rem;
     color: var(--bg);
-    background-color: var(--tint);
+    background: var(--bg);
+    background: -webkit-linear-gradient(135deg, var(--accent) 25%, var(--tint) 100%);
 }
 
 .header-text {
