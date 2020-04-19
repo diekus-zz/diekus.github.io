@@ -38,7 +38,7 @@ class IconItem extends HTMLElement {
         </style>
         <div class="icon-default">
           <slot name="icon-image"><img id="icon-image" src="#" loading="lazy"></slot>
-          <slot name="icon-title" class="centered" id="ico-title"><a href="#" id="link">title</a></slot>
+          <strong><slot name="icon-title" class="centered" id="ico-title"><a href="#" id="link">title</a></slot></strong>
         </div>
       </template>`;
       shadow.innerHTML = template;
