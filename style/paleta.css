@@ -2,17 +2,14 @@
     --white: #FFFFFF;
     --l-grey: #e0e0e0;
     --black: #3D3D3D;
-    --hot-salmon: #FF3D3D;
-    --d-salmon: #7A2020;
-    --hot-blue: #3D3DFF;
-    --shade: #0000007F;
-    --tint: #0058BD;
-    --l-tint: #ffffff3F;
+    --shade: #000000;
+    --tint: #FFC800;
+    --l-tint: #2D2D2D;
 
     --bg: var(--black);
     --bg-accent: var(--l-grey);
-    --text: var(--black);
-    --card-shadow: var(--black);
+    --text: var(--l-grey);
+    --card-shadow: var(--l-grey);
     --link: var(--tint);
     --subtitle: var(--l-grey);
     --row-even: var(--tint);
