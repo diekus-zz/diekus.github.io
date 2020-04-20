@@ -196,7 +196,6 @@ th, td {
     .hero-image {
         grid-column: 1 / -1;
         grid-row: 1 / 2;
-        width: 55vh;
         object-fit: cover;
     }
     #next-events {
